@@ -1,2 +1,2 @@
-# JS_momentum_chrome
- 자바스크립트_chrome web 만들기
+# Js_momentum
+ 자바스크립트 chrome 웹 만들기 
